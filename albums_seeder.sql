@@ -13,8 +13,6 @@ VALUES ('Michael Jackson', 'Thriller', 1982, 70, 'Pop, post-disco, funk, rock'),
 
 ('Eagles', 'Hotel California', 1976, 42, 'Soft-Rock'),
 
-('Shania Twain', 'Come On Over', 1997, 40, 'Country, pop'),
-
 ('Fleetwood Mac', 'Rumours', 1977, 40, 'Soft rock'),
 
 ('Bee Gees', 'Saturday Night Fever', 1977, 40, 'Disco'),
